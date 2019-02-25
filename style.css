@@ -13,10 +13,24 @@
     margin-left:auto; margin-right:0;
 }
 
+.nav-item:hover {
+        text-decoration: underline;
+}
+
 .avatar{
     margin-top: 10px;
 }
 
 .card{
     width:25%;
+}
+
+.card-img{
+    width: 25%;
+    height:25%;
+}
+
+.iBtn {
+    font-size: 30px;
+    color: black;
 }
